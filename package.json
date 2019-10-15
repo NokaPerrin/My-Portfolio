@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "1.0.0",
-  "description": "My Working portfolio to talk about me.",
+  "description": "My Working portfolio.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/NokaPerrin/My-Portfolio#readme",
   "dependencies": {
-    "express": "^4.17.1",
     "bootstrap": "^4.3.1"
   }
 }
