@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NokaPerrin/My-Portfolio/issues"
   },
-  "homepage": "https://github.com/NokaPerrin/My-Portfolio#readme"
+  "homepage": "https://github.com/NokaPerrin/My-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "bootstrap": "^4.3.1"
+  }
 }
