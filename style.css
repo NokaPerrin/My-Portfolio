@@ -163,9 +163,11 @@ h3.heading {
   margin: 0 auto;
   margin-bottom: 2rem;
 }
-
 .feature {
   text-align: center;
+}
+.svg-inline--fa.fa-w-14{
+  color: #1F7A8C;
 }
 .feature .fa-layers {
   color: #1F7A8C;
@@ -173,6 +175,7 @@ h3.heading {
   margin: 0 auto;
   width: 3.9rem;
 }
+
 .feature h3 {
   font-size: 1.3rem;
   text-transform: uppercase;
@@ -224,55 +227,6 @@ img.example-image {
 .portfolio-item {
   overflow: hidden;
 }
-
-/*============ Pricing Section ============*/
-
-.pricing-column {
-  background-color: white;
-  padding: 2rem;
-  border-top: .2rem solid #1F7A8C;
-  box-shadow: 0 0 .8rem rgba(0, 0, 0, 0.075);
-  transition: transform .7s ease;
-  overflow: hidden;
-  position: relative;
-}
-.pricing-column:hover {
-  transform: scale(1.1);
-}
-.pricing-column h3 {
-  padding: 1rem;
-  border-bottom: .1rem solid rgba(0, 0, 0, 0.1);
-}
-.pricing-column p {
-  opacity: .8;
-  margin-top: 1.3rem;
-}
-
-.pricing-column h4 {
-  font-size: 1.1rem;
-  padding: .4rem;
-}
-.pricing-column .item {
-  font-weight: 700;
-}
-.pricing-column h1 {
-  padding: .8rem 0;
-}
-.ribbon {
-  background-color: #6c757d;
-  color: white;
-  width: 10rem;
-  height: 2rem;
-  font-size: .8rem;
-  font-weight: 700;
-  padding-top: .4rem;
-  position: absolute;
-  right: -2.8rem;
-  top: 1.6rem;
-  transform: rotate(45deg);
-  box-shadow: 0 0 .2rem rgba(0, 0, 0, 0.25)
-}
-
 
 /*============ Skills Section ============*/
 
@@ -334,6 +288,24 @@ footer .svg-inline--fa {
 footer .svg-inline--fa:hover{
   color: #1F7A8C!important;
 } 
+#animationIcon{
+  color: white;
+}
+#socialLink{
+  color: white;
+}
+#socialLink1{
+  color: white;
+}
+#socialLink2{
+  color: white;
+}
+#socialLink3{
+  color: white;
+}
+#socialLink4{
+  color: white;
+}
 footer h3 {
   text-transform: uppercase;
   margin: 1.5rem 0;
